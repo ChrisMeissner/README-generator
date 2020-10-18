@@ -1,9 +1,9 @@
 # README Generator
 
-![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-It generates a custom readme all within the command line
+This application generates a custom README file all from the command line/
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,10 +16,10 @@ It generates a custom readme all within the command line
 npm i
 
 ## Usage
-it rocks
+The user should know that this application rocks
 
 ## Contributing
-me 
+I have contributed to this repo
 
 ## Tests
 npm test
