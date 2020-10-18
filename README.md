@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/badge/license-The Unlicense-blue.svg)
 
 ## Description
-This project creates a custom README using only the command line. 
+This project uses only the command line to generate a custom README file. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,7 +16,7 @@ This project creates a custom README using only the command line.
 npm i
 
 ## Usage
-This program is perfect if you need to create a custom README using only the command line. A tutorial of how the project works can be seen using the video link.
+If you need to generate a custom README file using only the command line, this project is the the perfect one for you. A video walk through of the application can be accessed using the link.
 
 ## Contributing
 Chris Meissner
