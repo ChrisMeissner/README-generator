@@ -1,9 +1,9 @@
 # README Generator
 
-![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-The Unlicense-blue.svg)
 
 ## Description
-it is amazing
+This project creates a custom README using only the command line. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,7 +16,7 @@ it is amazing
 npm i
 
 ## Usage
-what this video
+This program is perfect if you need to create a custom README using only the command line. A tutorial of how the project works can be seen using the video link.
 
 ## Contributing
 Chris Meissner
