@@ -17,6 +17,7 @@ npm i
 
 ## Usage
 If you need to generate a custom README file using only the command line, this project is the the perfect one for you. A video walk through of the application can be accessed using the link.
+video: https://drive.google.com/file/d/1KylBnvHU-RAAMw7BSX3gov7-aUVVKOBL/view
 
 ## Contributing
 Chris Meissner
