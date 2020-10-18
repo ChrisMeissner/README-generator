@@ -1,25 +1,25 @@
 # README Generator
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Description
-This application generates a custom README file all from the command line/
+it is amazing
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing] (#contributing)
-* [Tests] (#tests)
-* [Questions] (#questions)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Installation
 npm i
 
 ## Usage
-The user should know that this application rocks
+what this video
 
 ## Contributing
-I have contributed to this repo
+Chris Meissner
 
 ## Tests
 npm test

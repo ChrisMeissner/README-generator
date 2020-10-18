@@ -61,7 +61,7 @@ const questions = [
     type: 'list',          
     name: 'license',
     message: 'What type of license does your project have?',
-    choices:['ISC', 'GNU', 'MIT', 'Apache', 'None'],
+    choices:['ISC', 'GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Boost Software License 1.0', 'MIT', 'Apache', 'The Unlicense', 'None'],
   },
   {
     type: 'input',          
@@ -99,7 +99,7 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
   inquirer.prompt(questions).then(data => {
-    console.log("generating README");
+    console.log("generating README.md");
     writeToFile("README.md", generateMarkdown(data));
   }) 
 } 
